@@ -44,7 +44,3 @@ Ensure the following are installed on your system:
 1. Access the application by opening the frontend URL in your browser (default is `http://localhost:3000`).
 2. The backend API will be available at the Flask server URL (default is `http://localhost:5000`).
 
----
-
-For any queries or issues, please contact [[your-email@example.com](mailto\:your-email@example.com)].
-
